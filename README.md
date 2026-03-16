@@ -31,3 +31,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/JonathanMeltzer99/AI-Journey.git
 cd AI-Journey
+
+## Usage
+
+Run the starter script:
+
+```bash
+python main.py
