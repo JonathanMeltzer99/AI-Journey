@@ -1,2 +1,5 @@
-# AI-Journey
-This is the first repository on my AI journey 
+# AI Journey
+
+Experiments and projects related to AI development.
+
+Repository used for testing Codex environments.
